@@ -1,17 +1,22 @@
+# Hi, I'm Mehdi 👋
+
+### Junior Full Stack Developer · Dev Manager Full Stack Student
+
+I'm a French developer currently expanding my skills from **web development** toward **modern web technologies, software engineering and some cybersecurity**.
+I enjoy understanding how applications work — from their user interfaces to their backend architecture, infrastructure and security.
+
 # 💫 About Me
 
 💻 **Junior Full Stack Developer** with a strong backend focus  
-🐘 **Main stack:** PHP, SQL, JavaScript and modern web technologies  
-🚀 **Building:** Full Stack web applications, business tools and personal projects  
-🗄️ **Working with:** Relational and NoSQL databases  
-🐧 **Comfortable with:** Linux environments, web servers and application deployment  
+🐘 **Main stack:** PHP, SQL, JavaScript  
+🚀 **Building:** Full Stack web applications, business tools and personal projects    
 📚 **Currently improving:** Modern JavaScript, Full Stack architecture and software development practices  
 🎮 **Hobbies:** Coding, gaming, playing music and learning new technologie
 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_URL>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-maallou-253696243/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://mehdimaallou.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maalloumehdi@gmail.com)
 
@@ -56,14 +61,19 @@
 
 ### 🖥️ Environment & Tools
 
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📋 Project Management & Methodologies
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats
 
